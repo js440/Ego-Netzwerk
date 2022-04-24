@@ -1,0 +1,6 @@
+from,to,weight
+VW,CT,1
+VW,OH,1
+VW,DJ,2
+VW,AH,3
+CT,OH,3
